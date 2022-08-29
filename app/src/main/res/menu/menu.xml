@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Main menu"
+        android:checkable="true">
+        <menu>
+            <group>
+                <item
+                    android:id="@+id/Home"
+                    android:icon="@drawable/home"
+                    android:title="Home" />
+                <item
+                    android:id="@+id/Share"
+                    android:icon="@drawable/share"
+                    android:title="Share this app" />
+                <item
+                    android:id="@+id/policy"
+                    android:icon="@drawable/policy"
+                    android:title="disclaimer" />
+            </group>
+        </menu>
+    </item>
+
+</menu>

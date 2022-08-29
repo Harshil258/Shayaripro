@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1082570526370",
+    "project_id": "shayaripro-1289a",
+    "storage_bucket": "shayaripro-1289a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082570526370:android:bb4202126b1c6cd26851fb",
+        "android_client_info": {
+          "package_name": "com.mahabharata.shayaripro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1082570526370-8p8qs9ssoofusjg131o5m3a6leju6h7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDqZs-W6S8mnJgXO-kZPHZQoFCJAA2-iE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1082570526370-8p8qs9ssoofusjg131o5m3a6leju6h7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
